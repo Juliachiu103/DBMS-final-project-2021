@@ -61,5 +61,8 @@ source from:
 ![](https://i.imgur.com/86wCRsP.png)
 
 ### (四) 平台頁面
-![homepage](https://user-images.githubusercontent.com/84898509/149905878-dcb86c49-c057-405a-ba48-616fc474971b.JPG)
+
+https://user-images.githubusercontent.com/84898509/149908209-bab41472-8326-43cf-9724-d295a4ca5cd7.mp4
+
+
 
