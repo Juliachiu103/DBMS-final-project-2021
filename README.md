@@ -31,7 +31,6 @@ source from:
 | 網頁後端語言  | PHP    |
 | 網頁前端語言  | HTML、CSS   |
 | 資料庫       | mySQL  |
-| 工具
 | Server      | Apache |
 
 #### 系統功能分析
