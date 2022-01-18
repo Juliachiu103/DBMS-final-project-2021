@@ -62,7 +62,8 @@ source from:
 
 ### (四) 平台頁面
 
-https://user-images.githubusercontent.com/84898509/149908209-bab41472-8326-43cf-9724-d295a4ca5cd7.mp4
+![homepage](https://user-images.githubusercontent.com/84898509/149908447-ab35a777-d107-4d68-829d-561013009651.JPG)
+
 
 
 
