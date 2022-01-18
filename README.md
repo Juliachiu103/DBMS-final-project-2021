@@ -18,8 +18,6 @@ source from:
 * [政府資料開放平台(藝文活動)](https://data.gov.tw/dataset/6478)
 * [文化部國家文化記憶庫(人物與團體類)](https://opendata.culture.tw/frontsite/openData/detail?datasetId=749)
 * [臺北旅遊網(分區遊憩景點)](https://www.travel.taipei/zh-tw)
-* [台北市YouBike開放資料(.json)](https://tcgbusfs.blob.core.windows.net/blobyoubike/YouBikeTP.json)
-* [高雄市YouBike 2.0開放資料(.json)](http://od-oas.kcg.gov.tw/api/service/Get/b4dd9c40-9027-4125-8666-06bef1756092)
 * [台北市公車資料庫平台說明文件](https://www-ws.gov.taipei/Download.ashx?u=LzAwMS9VcGxvYWQvNDU4L3JlbGZpbGUvMjI1NDUvNjU1NDM2MC81MjllNmU4Yi1hM2EzLTRjNzktODExOS0wOWUyNDJhMDNmYjcucGRm&n=6Ie65YyX5biCRGF0YS5UYWlwZWnlubPlj7BBUEnoqqrmmI7mlofku7ZfVjUuMC5wZGY%3d&icon=..pdf)
 * [台中市公共運輸處公開資料下載處](https://tcrt.taichung.gov.tw/content/index?Parser=1,9,58)
 
