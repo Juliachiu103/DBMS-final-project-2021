@@ -1,5 +1,5 @@
-DBMS Final Project 
-# 統計打怪獸 -  台北市藝文活動資訊網
+NCCU 2022 DBMS Final Project 
+## 統計打怪獸 -  台北市藝文活動資訊網
 
 ### (一) 專案題目
 * 專案題目 : 台北市藝文活動資訊網
